@@ -12,3 +12,4 @@ Transformer Research Repository for CREAM
 * https://blogs.nvidia.co.kr/2022/04/01/what-is-a-transformer-model/
 * https://towardsdatascience.com/transformers-141e32e69591
 * https://huggingface.co/learn/nlp-course/chapter1/4
+* https://www.youtube.com/watch?v=mxGCEWOxfe8
