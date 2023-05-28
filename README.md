@@ -1,7 +1,7 @@
 # CREAM-Transtormer
 Transformer Research Repository for CREAM
 
-<img src="./ppt.gif" width="1280px" height="720px" title="Github_Logo"/>
+<div align="center"><img src="./ppt.gif" width="480px" height="360px" title="Github_Logo"/></div>
 
 ### [References]
 * https://youtu.be/AA621UofTUA?t=1079
