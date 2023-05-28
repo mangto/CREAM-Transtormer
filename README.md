@@ -1,7 +1,9 @@
 # CREAM-Transtormer
 Transformer Research Repository for CREAM
 
-### [참고자료]
+<img src="./ppt.gif" width="1280px" height="720px" title="Github_Logo"/>
+
+### [References]
 * https://youtu.be/AA621UofTUA?t=1079
 * https://www.youtube.com/watch?v=iiXRuCZ0ww8
 * https://www.youtube.com/watch?v=-QH8fRhqFHM
